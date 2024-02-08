@@ -2,3 +2,4 @@
 # python1.py
 
 print('hi')
+print('bye')
